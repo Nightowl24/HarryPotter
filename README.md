@@ -17,35 +17,37 @@ Here are some ideas for classes, properties and methods. Use one of these ideas 
 The Program Class has been provided for you, but it is empty. Instantiate your object here. Provide a nice user interface so the user can interact with your object. Put your interface in a loop so the user has control over how long they want to engage with your console app.
 
 ## Superhero Example
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What do you want to do with your SuperHero?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Name them
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Add to their list of powers
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Use their power
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Check their health level
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Exit
+What do you want to do with your SuperHero?
+1. Name them
+2. Add to their list of powers
+3. Use their power
+4. Check their health level
+5. Exit
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Input: 3
+
 Which power would you like to use?
 1. Strength
 2. Flying
 3. Invisibility
 
-2
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Input: 2
+
 Your SuperHero has used their Flying power.
-Your Class
+
+## Your Class
 Add a class file and name it after the object it represents. Add your properties, methods, and any constructors you may need to your class file.
 
-Your Tests Class
+## Your Tests Class
 Writing tests for your class is optional, but encouraged.
 
-Grading
-Grading is Pass/Fail. A Passing grade will be based on the following criteria:
+## Grading
+A Passing grade will be based on the following criteria:
 
-Your completed work has been pushed up to the GitHub Classroom repository before the deadline.
-Your console app compiles and runs without error.
-You have added a class that includes the following:
-
-at least 5 properties that are used within your application
-at least 3 methods that are called within your application (NOTE: methods that Get or Set properties do not count toward the 3 method minimum)
-An interface that allows the user to interact with all of an object's methods, and the option to continue interacting or exit.
-Tests are optional.
+- Your completed work has been pushed up to the GitHub Classroom repository before the deadline.
+- Your console app compiles and runs without error.
+- You have added a class that includes the following:
+- - at least 5 properties that are used within your application
+- - at least 3 methods that are called within your application (NOTE: methods that Get or Set properties do not count toward the 3 method minimum)
+- - An interface that allows the user to interact with all of an object's methods, and the option to continue interacting or exit.
+- Tests are optional.
