@@ -49,10 +49,10 @@ A Passing grade will be based on the following criteria:
 - Tests are optional.
 - You have added a class that includes the following:
 
-- - at least 5 properties that are used within your application
+ - at least 5 properties that are used within your application
 
-- - at least 3 methods that are called within your application (NOTE: methods that Get or Set properties do not count toward the 3 method minimum)
+ - at least 3 methods that are called within your application (NOTE: methods that Get or Set properties do not count toward the 3 method minimum)
 
-- - An interface that allows the user to interact with all of an object's methods, and the option to continue interacting or exit.
+ - An interface that allows the user to interact with all of an object's methods, and the option to continue interacting or exit.
 
 
