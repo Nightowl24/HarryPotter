@@ -23,16 +23,16 @@ What do you want to do with your SuperHero?
 3. Use their power
 4. Check their health level
 5. Exit
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Input: 3
-
+---
+Input: 3
+---
 Which power would you like to use?
 1. Strength
 2. Flying
 3. Invisibility
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Input: 2
-
+---
+Input: 2
+---
 Your SuperHero has used their Flying power.
 
 ## Your Class
