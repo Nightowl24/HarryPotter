@@ -47,7 +47,7 @@ A Passing grade will be based on the following criteria:
 - Your completed work has been pushed up to the GitHub Classroom repository before the deadline.
 - Your console app compiles and runs without error.
 - You have added a class that includes the following:
--- at least 5 properties that are used within your application
--- at least 3 methods that are called within your application (NOTE: methods that Get or Set properties do not count toward the 3 method minimum)
--- An interface that allows the user to interact with all of an object's methods, and the option to continue interacting or exit.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at least 5 properties that are used within your application
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at least 3 methods that are called within your application (NOTE: methods that Get or Set properties do not count toward the 3 method minimum)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An interface that allows the user to interact with all of an object's methods, and the option to continue interacting or exit.
 - Tests are optional.
